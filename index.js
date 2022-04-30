@@ -477,7 +477,7 @@ ctx.replyWithMarkdown(`🎁 Welcome to *`+airdropName+`* Airdrop Bot Balance\n\n
 
 bot.hears('📨 Information',async (ctx) => {
   
-  ctx.replyWithMarkdown('*Token Information:*\n\n*Name:* `crypto verse`\n*Symbol:* `cv`\nDecimale: `18`\n*Contract Address:* '0x468f6DdB3965fBB451fF6224332C6EF0d4F2B53c`\n\n_If you submitted a wrong data then you can restart the bot and start resubmission by clicking /start before Token airdrop ends._')
+  ctx.replyWithMarkdown('*Token Information:*\n\n*Name:* `crypto verse`\n*Symbol:* `cv`\nDecimale: `18`\n*Contract Address:*`0x468f6DdB3965fBB451fF6224332C6EF0d4F2B53c`\n\n_If you submitted a wrong data then you can restart the bot and start resubmission by clicking /start before Token airdrop ends._')
   })
 
 
